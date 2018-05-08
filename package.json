@@ -1,0 +1,24 @@
+{
+  "name": "hbtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.3",
+    "express": "~4.15.2",
+    "jwt-simple": "^0.5.1",
+    "log": "^1.4.0",
+    "moment": "^2.17.1",
+    "mongojs": "^2.5.0",
+    "morgan": "~1.8.1"
+  }
+}
