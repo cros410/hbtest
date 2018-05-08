@@ -6,3 +6,6 @@ Arquitectura orientada a servicios :
 
 Ejecucion :
 - node bin/www
+
+BD:
+- Mongo DB con conexion remota.
